@@ -3,3 +3,4 @@ node_modules/
 STOP_ART
 *.tar.gz
 *.log
+tmp-package/
