@@ -62,5 +62,21 @@
     "image": "art/0008-parliament-glass-birds.png",
     "createdAt": "2026-10-12T08:34:52Z",
     "prompt": "Use case: stylized-concept. Original square fine art canvas edge to edge. Title: A Parliament of Glass Birds. Invent an original cubist stained-glass inspired fine art painting, jewel-like translucent birds assembled from angular teal, coral, pale amber and smoky violet planes. They gather on a single delicate black arc above a charcoal-blue sea, their overlapping wings making unexpected luminous geometric harmonies. One white open space in the flock suggests a bird that has departed. Matte gouache ground, sharp ink edges, rich translucent color, no words, frame, signature or watermark."
+  },
+  {
+    "id": "0009",
+    "title": "The Weather Inside a Stone",
+    "description": "A quiet stone shelters an entire storm. Its broken edge reveals the thunder that the surface never spoke.",
+    "image": "art/0009-weather-inside-stone.png",
+    "createdAt": "2026-10-12T08:39:32Z",
+    "prompt": "Use case: stylized-concept. Original square fine art canvas edge to edge. Title: The Weather Inside a Stone. Invent an original surreal fine art painting in richly textured oil: a split charcoal basalt stone reveals an entire miniature storm inside, curling pearl clouds, tiny amber lightning, cobalt rain pouring into a still turquoise cavity. The stone rests on a pale peach table against a flat muted sage backdrop. Intimate scale, dramatic interior light, tactile rough stone against airy cloud, elegant museum painting. No words, frame, signature or watermark."
+  },
+  {
+    "id": "0010",
+    "title": "The Last Tram to the Aurora",
+    "description": "Warm windows follow a slender track toward the northern light. The snow holds the reflection of a journey without a station.",
+    "image": "art/0010-last-tram-aurora.png",
+    "createdAt": "2026-10-12T08:40:01Z",
+    "prompt": "Use case: stylized-concept. Original square fine art canvas edge to edge. Title: The Last Tram to the Aurora. Original imaginative fine art painting in silkscreen and pastel: a small coral-red tram on impossibly thin elevated tracks curves into sweeping ribbons of emerald and lavender aurora over a vast midnight blue snow plain. Warm yellow windows, no passengers visible, geometric composition with exquisite soft grain, one ivory crescent shape reflected in snow, powerful negative space and wistful atmosphere. No words, signage, lettering, frame, signature or watermark."
   }
 ]
