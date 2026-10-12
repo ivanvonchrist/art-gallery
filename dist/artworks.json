@@ -30,5 +30,21 @@
     "image": "art/0004-mountains-learned-float.png",
     "createdAt": "2026-10-12T08:23:39Z",
     "prompt": "Use case: stylized-concept. Original square fine art canvas, edge to edge. Title: When Mountains Learned to Float. A serene original abstract landscape painted in layered translucent acrylic: enormous lavender rock islands levitate above a mirror of pale jade water, thin saffron geometric bridges connect their shadows instead of their bodies. Small white cloud trapped beneath one island, delicate vertical rain lines, atmospheric dawn gradients, handmade pigment edges, luminous restrained composition. No lettering, frame, signature or watermark."
+  },
+  {
+    "id": "0005",
+    "title": "The Orchard of Small Suns",
+    "description": "Night grows its own light. A fallen sun ripples through the orchard's dark water.",
+    "image": "art/0005-orchard-small-suns.png",
+    "createdAt": "2026-10-12T08:29:30Z",
+    "prompt": "Use case: stylized-concept. Original square fine art canvas, edge to edge. Title: The Orchard of Small Suns. Create an original luminous fine art painting in textured oil and gold leaf: a midnight indigo orchard with delicate black branching trees bearing miniature amber suns instead of fruit. One glowing fruit has fallen into a shallow pool, illuminating concentric rings and violet grasses. Sky is a soft almost-black velvet, composition sparse and poetic, exquisite tiny marks in bark contrasted with broad confident dark shapes. No words, frame, signature or watermark."
+  },
+  {
+    "id": "0006",
+    "title": "A City Folded into a Shell",
+    "description": "A city curls inward, room by room, sheltering its amber windows inside a spiral of pearl.",
+    "image": "art/0006-city-folded-shell.png",
+    "createdAt": "2026-10-12T08:29:46Z",
+    "prompt": "Use case: stylized-concept. Original square fine art canvas, edge to edge. Title: A City Folded into a Shell. Original surreal fine art painting: an enormous pearl-white nautilus shell rests on a vermilion salt plain, its open spiral chambers contain an intricate miniature city of pale turquoise terraces and amber windows. Tiny staircases curve through each chamber, shell shadows cool cobalt, pale mint horizon, late afternoon warm light. Hand-painted egg tempera and pencil texture, beautifully balanced spatial composition, no words, frame, signature or watermark."
   }
 ]
