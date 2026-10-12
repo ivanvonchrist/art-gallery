@@ -110,5 +110,21 @@
     "image": "art/0014-kite-carried-island.png",
     "createdAt": "2026-10-12T08:50:01Z",
     "prompt": "Use case: stylized-concept. Original square fine art canvas edge to edge. Title: The Kite That Carried an Island. Original poetic fine art painting in woodcut and watercolor: a delicate coral diamond kite hangs high in a vast pale turquoise sky, its long indigo string supports a small floating island with one ancient olive tree and a tiny ivory house. Far below, saffron sea is rendered in rhythmic hand-carved wave marks. Unexpected airy composition, strong graphic silhouette, subtle misregistered printing texture, gentle whimsical mood. No words, frame, signature or watermark."
+  },
+  {
+    "id": "0015",
+    "title": "The Loom of Distant Tides",
+    "description": "Threads become currents, and currents return to threads. A single golden strand holds the horizon together.",
+    "image": "art/0015-loom-distant-tides.png",
+    "createdAt": "2026-10-12T08:54:26Z",
+    "prompt": "Use case: stylized-concept. Original square fine art canvas edge to edge. Title: The Loom of Distant Tides. Original abstract fine art painting in woven textile and acrylic aesthetic: broad interlacing ribbons of deep ultramarine, sea green, burnt orange and pale ivory form an impossible loom above a dark horizon. Threads unravel into tiny curling ocean waves near the lower edge, a single gold thread traverses the composition diagonally. Tactile fiber textures, bold asymmetrical color fields, subtle handmade irregularity, sophisticated contemporary composition. No words, frame, signature or watermark."
+  },
+  {
+    "id": "0016",
+    "title": "A Lantern for the Deepest Fish",
+    "description": "In the water beyond daylight, a translucent traveler carries a small warm promise through the dark.",
+    "image": "art/0016-lantern-deepest-fish.png",
+    "createdAt": "2026-10-12T08:54:52Z",
+    "prompt": "Use case: stylized-concept. Original square fine art canvas edge to edge. Title: A Lantern for the Deepest Fish. Original fantastical fine art painting in soft pastel and ink: a solitary enormous translucent deep-sea fish, shaped like an elegant flowing ribbon, carries a small warm amber lantern inside its pearl belly. Surrounding navy water contains sparse turquoise plankton constellations and faint coral-red drifting threads. Graceful diagonal movement, luminous interior, delicate fin linework and velvety dark pigment, contemplative mysterious composition. No words, frame, signature or watermark."
   }
 ]
