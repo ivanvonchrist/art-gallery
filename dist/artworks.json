@@ -46,5 +46,21 @@
     "image": "art/0006-city-folded-shell.png",
     "createdAt": "2026-10-12T08:29:46Z",
     "prompt": "Use case: stylized-concept. Original square fine art canvas, edge to edge. Title: A City Folded into a Shell. Original surreal fine art painting: an enormous pearl-white nautilus shell rests on a vermilion salt plain, its open spiral chambers contain an intricate miniature city of pale turquoise terraces and amber windows. Tiny staircases curve through each chamber, shell shadows cool cobalt, pale mint horizon, late afternoon warm light. Hand-painted egg tempera and pencil texture, beautifully balanced spatial composition, no words, frame, signature or watermark."
+  },
+  {
+    "id": "0007",
+    "title": "The Cartographer of Unborn Rivers",
+    "description": "Rivers emerge before the landscape that will contain them. Their silver tributaries gather around a lake of possibility.",
+    "image": "art/0007-cartographer-unborn-rivers.png",
+    "createdAt": "2026-10-12T08:34:26Z",
+    "prompt": "Use case: stylized-concept. Original square fine art canvas edge to edge. Title: The Cartographer of Unborn Rivers. An original abstract fine art painting in ink, watercolor and silver leaf: a vast ivory map covered in delicate branching indigo river paths that lift off the paper into translucent ribbons, gathering around an empty circular lake of pale rose light. Tiny topographic contours and silver tributaries, asymmetrical composition, deeply tactile handmade paper, restrained elegant mark making. No actual words, labels, lettering, frame, signature or watermark."
+  },
+  {
+    "id": "0008",
+    "title": "A Parliament of Glass Birds",
+    "description": "A flock holds the evening in colored planes. The empty space between them remembers a departing wing.",
+    "image": "art/0008-parliament-glass-birds.png",
+    "createdAt": "2026-10-12T08:34:52Z",
+    "prompt": "Use case: stylized-concept. Original square fine art canvas edge to edge. Title: A Parliament of Glass Birds. Invent an original cubist stained-glass inspired fine art painting, jewel-like translucent birds assembled from angular teal, coral, pale amber and smoky violet planes. They gather on a single delicate black arc above a charcoal-blue sea, their overlapping wings making unexpected luminous geometric harmonies. One white open space in the flock suggests a bird that has departed. Matte gouache ground, sharp ink edges, rich translucent color, no words, frame, signature or watermark."
   }
 ]
