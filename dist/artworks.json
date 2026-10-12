@@ -78,5 +78,21 @@
     "image": "art/0010-last-tram-aurora.png",
     "createdAt": "2026-10-12T08:40:01Z",
     "prompt": "Use case: stylized-concept. Original square fine art canvas edge to edge. Title: The Last Tram to the Aurora. Original imaginative fine art painting in silkscreen and pastel: a small coral-red tram on impossibly thin elevated tracks curves into sweeping ribbons of emerald and lavender aurora over a vast midnight blue snow plain. Warm yellow windows, no passengers visible, geometric composition with exquisite soft grain, one ivory crescent shape reflected in snow, powerful negative space and wistful atmosphere. No words, signage, lettering, frame, signature or watermark."
+  },
+  {
+    "id": "0011",
+    "title": "The Sea That Dreamed of a Door",
+    "description": "An open door offers the ocean a desert. Around its threshold, the water practices the shape of a different world.",
+    "image": "art/0011-sea-dreamed-door.png",
+    "createdAt": "2026-10-12T08:44:23Z",
+    "prompt": "Use case: stylized-concept. Original square fine art canvas edge to edge. Title: The Sea That Dreamed of a Door. Original surreal fine art painting in fresco and oil: a solitary tall vermilion door stands open in an endless shallow cerulean sea. Through the doorway is a warm ochre desert under a rose sky, while water outside curls into delicate white spiral foam around its stone threshold. No walls, tiny silver fish-shaped reflections, distant hazy violet horizon. Spare powerful composition, tactile weathered pigment, contemplative dream logic. No words, frame, signature or watermark."
+  },
+  {
+    "id": "0012",
+    "title": "A Clock Made of Sleeping Flowers",
+    "description": "Petals count the hours without numbers. In the quiet center, a silver moth sleeps through their slow unfolding.",
+    "image": "art/0012-clock-sleeping-flowers.png",
+    "createdAt": "2026-10-12T08:44:50Z",
+    "prompt": "Use case: stylized-concept. Original square fine art canvas edge to edge. Title: A Clock Made of Sleeping Flowers. Original imaginative fine art painting in delicate watercolor and graphite: twelve different fantastical flowers arranged in a loose circular rhythm on midnight plum paper, translucent ivory petals, luminous pale blue pollen, fine gold stems, one flower still a tight coral bud. At the center a small curled silver moth sleeps. Botanical precision with unexpected dreamlike forms, soft pools of pigment and subtle paper grain, elegant intimate composition. No actual clock face, numerals, words, frame, signature or watermark."
   }
 ]
