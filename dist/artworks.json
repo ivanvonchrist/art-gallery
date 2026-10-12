@@ -126,5 +126,21 @@
     "image": "art/0016-lantern-deepest-fish.png",
     "createdAt": "2026-10-12T08:54:52Z",
     "prompt": "Use case: stylized-concept. Original square fine art canvas edge to edge. Title: A Lantern for the Deepest Fish. Original fantastical fine art painting in soft pastel and ink: a solitary enormous translucent deep-sea fish, shaped like an elegant flowing ribbon, carries a small warm amber lantern inside its pearl belly. Surrounding navy water contains sparse turquoise plankton constellations and faint coral-red drifting threads. Graceful diagonal movement, luminous interior, delicate fin linework and velvety dark pigment, contemplative mysterious composition. No words, frame, signature or watermark."
+  },
+  {
+    "id": "0017",
+    "title": "A Staircase for the Evening Star",
+    "description": "Pink stone crosses the marsh toward a low golden star. Each step gathers a little of the evening's light.",
+    "image": "art/0017-staircase-evening-star.png",
+    "createdAt": "2026-10-12T08:59:32Z",
+    "prompt": "Use case: stylized-concept. Original square fine art canvas edge to edge. Title: A Staircase for the Evening Star. Original fine art painting in egg tempera and gold leaf: a slender staircase of pale pink stone rises from a dark jade marsh into a huge low-hanging golden star shaped as an irregular radiant orb. Reeds form fine black calligraphic silhouettes, lavender twilight sky, small ripples reflect the impossible stair. Architectural precision contrasted with dreamy luminous atmosphere, tactile pigment, spare elegant composition. No words, frame, signature or watermark."
+  },
+  {
+    "id": "0018",
+    "title": "The Anatomy of a Gentle Wind",
+    "description": "Feathers, silk and fallen leaves sketch an invisible passage. At its center, stillness keeps the shape of moving air.",
+    "image": "art/0018-anatomy-gentle-wind.png",
+    "createdAt": "2026-10-12T08:59:53Z",
+    "prompt": "Use case: stylized-concept. Original square fine art canvas edge to edge. Title: The Anatomy of a Gentle Wind. Original abstract fine art painting in charcoal and translucent watercolor: a graceful sweeping invisible wind is revealed by suspended ivory feathers, small terracotta leaf fragments, pale turquoise silk curves and thin silver arcs over warm grey handmade paper. The elements trace a loose spiral with a quiet empty center. Dynamic yet restrained, delicate graphite marks and pigment blooms, sophisticated asymmetry, richly tactile surface. No words, frame, signature or watermark."
   }
 ]
