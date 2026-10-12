@@ -142,5 +142,21 @@
     "image": "art/0018-anatomy-gentle-wind.png",
     "createdAt": "2026-10-12T08:59:53Z",
     "prompt": "Use case: stylized-concept. Original square fine art canvas edge to edge. Title: The Anatomy of a Gentle Wind. Original abstract fine art painting in charcoal and translucent watercolor: a graceful sweeping invisible wind is revealed by suspended ivory feathers, small terracotta leaf fragments, pale turquoise silk curves and thin silver arcs over warm grey handmade paper. The elements trace a loose spiral with a quiet empty center. Dynamic yet restrained, delicate graphite marks and pigment blooms, sophisticated asymmetry, richly tactile surface. No words, frame, signature or watermark."
+  },
+  {
+    "id": "0019",
+    "title": "The Bridge Between Two Raindrops",
+    "description": "A copper crossing joins two small worlds suspended in water. Forest and desert meet in the air between them.",
+    "image": "art/0019-bridge-two-raindrops.png",
+    "createdAt": "2026-10-12T09:08:36Z",
+    "prompt": "Use case: stylized-concept. Original square fine art canvas edge to edge. Title: The Bridge Between Two Raindrops. Original surreal fine art painting in watercolor and copper etching: two enormous suspended clear raindrops occupy an ivory misty sky, a delicate copper suspension bridge connects their curved surfaces. Inside one drop a miniature green forest, inside the other a tiny amber desert. Fine reflective highlights and soft turquoise shadows, airy spare composition, handmade paper grain, exquisite impossible architecture. No words, frame, signature or watermark."
+  },
+  {
+    "id": "0020",
+    "title": "The Volcano That Sang in Blue",
+    "description": "The mountain releases color in place of smoke. Cobalt ribbons rise over rust-red stone, carrying a song without notes.",
+    "image": "art/0020-volcano-sang-blue.png",
+    "createdAt": "2026-10-12T09:10:13Z",
+    "prompt": "Use case: stylized-concept. Original square fine art canvas edge to edge. Title: The Volcano That Sang in Blue. Original expressive fine art painting in thick oil and charcoal: a dark rust-red volcanic mountain emits towering flowing cobalt and ultramarine ribbons instead of smoke, the ribbons curl like a silent musical phrase over a pale ochre sky. Small luminous turquoise stones scattered across the foreground, energetic palette knife ridges, bold graphic silhouette, dramatic asymmetrical composition, original abstract landscape. No musical notation, words, frame, signature or watermark."
   }
 ]
