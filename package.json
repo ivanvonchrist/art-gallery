@@ -1,0 +1,1 @@
+{"name":"endless-atelier","private":true,"type":"module","scripts":{"start":"node server.mjs","test":"node --test --test-isolation=none tests/*.test.mjs"},"dependencies":{"three":"0.180.0"}}

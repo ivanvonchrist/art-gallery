@@ -1,0 +1,18 @@
+[
+  {
+    "id": "0001",
+    "title": "The Tide Remembers the Moon",
+    "description": "An impossible crescent settles into a sea of memory. Coral islands hold the last warmth of a disappearing sun.",
+    "image": "art/0001-tide-remembers-moon.png",
+    "createdAt": "2026-10-12T08:12:20Z",
+    "prompt": "Use case: stylized-concept. Asset type: original fine art canvas for an infinite gallery, artwork only edge to edge, square. Title: The Tide Remembers the Moon. Create a richly textured oil and mineral-pigment painting: a monumental ivory crescent resting in a dark turquoise tidal pool, tiny glowing coral-orange islands orbiting it, an impossible horizon of pale gold fog. Quiet, strange, luminous, bold negative space, tactile impasto and hairline wave patterns. No frame, no lettering, no watermark. This is original art, not a photograph of a painting."
+  },
+  {
+    "id": "0002",
+    "title": "A Botanical Machine for Remembering Rain",
+    "description": "Copper roots and translucent leaves collect the weather that has passed. A single vermilion seed keeps the mechanism alive.",
+    "image": "art/0002-botanical-machine.png",
+    "createdAt": "2026-10-12T08:14:25Z",
+    "prompt": "Use case: stylized-concept. Original square fine art canvas, edge to edge. Title: A Botanical Machine for Remembering Rain. A surreal botanical copperplate and watercolor artwork: translucent cobalt and emerald leaves form an intricate impossible mechanical garden, fine copper roots suspended above a warm parchment ground, pearl droplets suspended like musical notes, one radiant vermilion seed at the center. Elegant highly detailed linework, subtle paper grain, airy composition, original imaginative visual art. No words, frame, signature or watermark."
+  }
+]

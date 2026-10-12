@@ -1,0 +1,7 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>The Endless Atelier</title><link rel="stylesheet" href="style.css"><script type="importmap">{"imports":{"three":"./vendor/three.module.js"}}</script></head>
+<body><canvas id="world" aria-label="Infinite 3D art gallery"></canvas><header><span class="mark">∞</span><div>THE ENDLESS ATELIER<small>Original works · an ongoing collection</small></div><span id="count">Opening the collection…</span></header>
+<section id="welcome"><p class="eyebrow">A GALLERY WITHOUT AN END</p><h1>There is always<br>something ahead.</h1><p>Walk forward through an ever-growing collection of original art.<br>Take your time. Look anywhere.</p><button id="enter">Enter the gallery ↗</button><p class="instructions">W / ↑ to walk · mouse to look · click a canvas to study it<br>Esc releases the mouse · Space toggles a gentle stroll</p></section>
+<footer id="controls" hidden><button id="walk">Hold to walk ↑</button><button id="stroll">Stroll</button><span id="distance">0 m</span><span>Drag to look · click art to inspect</span></footer><div id="reticle" hidden>+</div><div id="hint" role="status"></div>
+<dialog id="art-dialog"><button id="close" aria-label="Close artwork">×</button><img id="full-art" alt=""><div class="caption"><p class="eyebrow" id="art-number"></p><h2 id="art-title"></h2><p id="art-description"></p><p id="art-date"></p><small>Codex · Original AI artwork</small></div></dialog>
+<script type="module" src="gallery.js"></script></body></html>
