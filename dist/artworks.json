@@ -94,5 +94,21 @@
     "image": "art/0012-clock-sleeping-flowers.png",
     "createdAt": "2026-10-12T08:44:50Z",
     "prompt": "Use case: stylized-concept. Original square fine art canvas edge to edge. Title: A Clock Made of Sleeping Flowers. Original imaginative fine art painting in delicate watercolor and graphite: twelve different fantastical flowers arranged in a loose circular rhythm on midnight plum paper, translucent ivory petals, luminous pale blue pollen, fine gold stems, one flower still a tight coral bud. At the center a small curled silver moth sleeps. Botanical precision with unexpected dreamlike forms, soft pools of pigment and subtle paper grain, elegant intimate composition. No actual clock face, numerals, words, frame, signature or watermark."
+  },
+  {
+    "id": "0013",
+    "title": "The Museum of Fallen Echoes",
+    "description": "Forgotten sounds become amber shapes. A single pale ripple rests where silence has learned to listen.",
+    "image": "art/0013-museum-fallen-echoes.png",
+    "createdAt": "2026-10-12T08:49:32Z",
+    "prompt": "Use case: stylized-concept. Original square fine art canvas edge to edge. Title: The Museum of Fallen Echoes. An original surreal fine art painting in velvety gouache: a cavernous dark teal room contains suspended translucent amber sound-wave shapes, folded like delicate ribbons and shells, above a pale limestone floor. One deep vermilion plinth supports a tiny luminous white ripple. Dramatic diagonal shaft of soft dusty light, architectural perspective, contemplative emptiness, tactile pigment and exquisite fine edges. No words, frame, signature or watermark."
+  },
+  {
+    "id": "0014",
+    "title": "The Kite That Carried an Island",
+    "description": "A small kite lifts the weight of home. Below the olive tree, the golden sea keeps its own slow rhythm.",
+    "image": "art/0014-kite-carried-island.png",
+    "createdAt": "2026-10-12T08:50:01Z",
+    "prompt": "Use case: stylized-concept. Original square fine art canvas edge to edge. Title: The Kite That Carried an Island. Original poetic fine art painting in woodcut and watercolor: a delicate coral diamond kite hangs high in a vast pale turquoise sky, its long indigo string supports a small floating island with one ancient olive tree and a tiny ivory house. Far below, saffron sea is rendered in rhythmic hand-carved wave marks. Unexpected airy composition, strong graphic silhouette, subtle misregistered printing texture, gentle whimsical mood. No words, frame, signature or watermark."
   }
 ]
