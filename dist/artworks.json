@@ -14,5 +14,21 @@
     "image": "art/0002-botanical-machine.png",
     "createdAt": "2026-10-12T08:14:25Z",
     "prompt": "Use case: stylized-concept. Original square fine art canvas, edge to edge. Title: A Botanical Machine for Remembering Rain. A surreal botanical copperplate and watercolor artwork: translucent cobalt and emerald leaves form an intricate impossible mechanical garden, fine copper roots suspended above a warm parchment ground, pearl droplets suspended like musical notes, one radiant vermilion seed at the center. Elegant highly detailed linework, subtle paper grain, airy composition, original imaginative visual art. No words, frame, signature or watermark."
+  },
+  {
+    "id": "0003",
+    "title": "The Library Beneath the Desert",
+    "description": "Under the dunes, forgotten knowledge moves like a constellation. Sandstone pages rise toward an opening in the sun.",
+    "image": "art/0003-library-beneath-desert.png",
+    "createdAt": "2026-10-12T08:22:59Z",
+    "prompt": "Use case: stylized-concept. Original square fine art canvas, edge to edge. Title: The Library Beneath the Desert. Invent a dreamlike gouache painting of terracotta dunes opening into a subterranean library whose shelves are made of deep ultramarine shadows. Floating pale sandstone tablets drift through a shaft of apricot sunlight, delicate turquoise threads connect them like constellations. Tiny solitary stairway, vast quiet scale, graphic geometry with tactile handmade pigment, ochre and lapis palette. No words, letters, frame, signature or watermark."
+  },
+  {
+    "id": "0004",
+    "title": "When Mountains Learned to Float",
+    "description": "Mountains suspend their weight above a jade sea. Saffron bridges connect the shadows they have left behind.",
+    "image": "art/0004-mountains-learned-float.png",
+    "createdAt": "2026-10-12T08:23:39Z",
+    "prompt": "Use case: stylized-concept. Original square fine art canvas, edge to edge. Title: When Mountains Learned to Float. A serene original abstract landscape painted in layered translucent acrylic: enormous lavender rock islands levitate above a mirror of pale jade water, thin saffron geometric bridges connect their shadows instead of their bodies. Small white cloud trapped beneath one island, delicate vertical rain lines, atmospheric dawn gradients, handmade pigment edges, luminous restrained composition. No lettering, frame, signature or watermark."
   }
 ]
