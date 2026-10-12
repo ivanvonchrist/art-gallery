@@ -174,5 +174,21 @@
     "image": "art/0022-shadow-paper-whale.png",
     "createdAt": "2026-10-12T09:28:05Z",
     "prompt": "Use case: stylized-concept. Original square fine art canvas edge to edge. Title: The Shadow of a Paper Whale. Original imaginative fine art painting in paper collage and gouache: a gigantic folded ivory paper whale floats over a terracotta city of tiny flat roofs, its shadow on the buildings is a deep cobalt ocean filled with delicate turquoise wave marks. Pale sage sky, elegant creases and torn paper edges, quiet surreal scale, bold geometric composition with warm and cool contrast, tactile handmade textures. No words, frame, signature or watermark."
+  },
+  {
+    "id": "0023",
+    "title": "The Observatory of Quiet Seeds",
+    "description": "A seed opens to watch the sky. Above its small telescope, constellations practice the first shapes of growing things.",
+    "image": "art/0023-observatory-quiet-seeds.png",
+    "createdAt": "2026-10-12T09:41:08Z",
+    "prompt": "Use case: stylized-concept. Original square fine art canvas edge to edge. Title: The Observatory of Quiet Seeds. Original surreal fine art painting in mineral watercolor and graphite: a giant split seed pod forms an observatory on a pale amber hillside, its delicate bronze telescope points toward constellations made of tiny glowing sprouts in a deep indigo sky. Ivory interior walls and emerald moss details, still twilight, richly tactile paper grain, delicate architectural linework, balanced poetic composition. No words, frame, signature or watermark."
+  },
+  {
+    "id": "0024",
+    "title": "A Red Thread Across Winter",
+    "description": "One warm line crosses the long white valley. It rises once, a small gesture against the mountain's silence.",
+    "image": "art/0024-red-thread-winter.png",
+    "createdAt": "2026-10-12T09:42:01Z",
+    "prompt": "Use case: stylized-concept. Original square fine art canvas edge to edge. Title: A Red Thread Across Winter. Original fine art landscape painting in restrained woodcut and gouache: an immense snowy ivory valley under a pale grey sky, tiny charcoal-black trees scattered in rhythmic groups, one vivid red thread winds continuously through the valley and rises into the air in a single graceful loop near a distant blue mountain. Graphic negative space, tactile printed paper, subtle icy turquoise shadows, quiet powerful composition. No words, frame, signature or watermark."
   }
 ]
